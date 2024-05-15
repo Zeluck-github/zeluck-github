@@ -6,5 +6,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zeluck-github&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeluck-github&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=zeluck-github&icon=3&color=1)](https://visitcount.itsvg.in)
+# 👀 Visitor :
+![](https://komarev.com/ghpvc/?username=Zeluck-github&style=flat&abbreviated=true)
