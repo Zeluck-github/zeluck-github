@@ -6,5 +6,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zeluck-github&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeluck-github&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🎧Discord : 
+[![Discord Presence](https://lanyard.cnrad.dev/api/564715397023137793)](https://discord.com/users/564715397023137793)
+
 # 👀 Visitor :
 ![](https://komarev.com/ghpvc/?username=Zeluck-github&style=flat&abbreviated=true)
