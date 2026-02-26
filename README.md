@@ -1,12 +1,42 @@
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Welcome%2C+I'm+Zeluck!" alt="Typing SVG" /></a>
+</div>
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zeluck-github&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zeluck-github&theme=dark&hide_border=false)<br/>
+<div align="center">
+    <a href="https://www.linkedin.com/in/noah-lebreton-449788311/"><img src="https://img.shields.io/badge/-LinkedIn-5C89BD?style=for-the-badge&logo=LinkedIn&logoColor=5C89BD" alt="LinkedIn"/></a>
+</div>
 
-# 🎧Discord : 
-[![Discord Presence](https://lanyard.cnrad.dev/api/564715397023137793)](https://discord.com/users/564715397023137793)
+## About me... 
 
-# 👀 Visitor :
-![](https://komarev.com/ghpvc/?username=Zeluck-github&style=flat&abbreviated=true)
+I am an IT student undergoing a career transition, currently pursuing a specialization certificate in cybersecurity. My personal projects have helped me develop strong self-learning skills and fueled my curiosity for various fields of computer science. Dedicated and motivated, I am continuously building my technical skills through both academic and personal projects, driven by a strong desire to keep learning and growing.
+
+## Skills
+
+```javascript
+const ZELUCK = {
+    OS: ["Ubuntu", "Debian", "Windows"],
+    languages: {
+        averageLevel: ["JavaScript"],
+        baseLevel: ["Java", "Typescript", "Bash", "Python"]
+    },
+    programming: {
+        backend: ["AdonisJS"],
+        frontend: ["HTML", "CSS", "React", "TailWindCSS", "Shadcn"],
+        databases: ["PostgreSQL", "MongoDB", "MySQL"],
+        bots: ["DiscordJS"],
+        devOps: ["Docker", "Nginx", "Traefik"],
+    },
+    UI_UX: ["Figma"],
+};
+```
+
+## My Organizations
+
+<div align="center">
+<table>
+<tr>
+<td><a href="https://github.com/reverant-org/"><img src="./assets/reverant.png" width="330" height="180"/></a></td>
+<td><a href="https://github.com/PalaGuideBot/"><img src="./assets/palaguidebot.png" width="330" height="180"/></a></td>
+</tr>
+</table>
+</div>
